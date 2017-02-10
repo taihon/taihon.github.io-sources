@@ -1,0 +1,9 @@
+languageCode = "en-us"
+title = "Taihon's adventure in a world of IT"
+baseurl = "https://taihon.github.io/"
+theme = "hyde"
+
+[params]
+themeColor = "theme-base-0d"
+layoutReverse = true
+description = "I am Alexandr Sorokin, system administrator and a hobby programmer"
