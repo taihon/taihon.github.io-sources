@@ -1,9 +1,11 @@
 languageCode = "en-us"
-title = "Taihon's adventure in a world of IT"
+title = "Taihon's thoughts"
 baseurl = "https://taihon.github.io/"
 theme = "hyde"
 
 [params]
 themeColor = "theme-base-0d"
 layoutReverse = true
-description = "I am Alexandr Sorokin, system administrator and a hobby programmer"
+description = "My thoughts about System Administration, Programming, and IT in general."
+disqusShortname = "taihon"
+SectionPagesMenu = "main"
